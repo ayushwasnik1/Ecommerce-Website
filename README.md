@@ -1,1 +1,1 @@
-This is my e-commerce website, where I made an apple store with three major products in it. I hope you like it!
+This is my e-commerce website, where I created an Apple store with three major products. I hope you like it! 
